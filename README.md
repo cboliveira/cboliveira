@@ -73,8 +73,8 @@ My goal is to get a new job as a blue team analyst.
     
 <img 
     align="left" 
-    alt="Linux" 
-    title="Linux"
+    alt="RedHat" 
+    title="RedHat"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg"
