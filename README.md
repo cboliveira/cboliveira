@@ -2,7 +2,7 @@
 
 **`CyberSecurity - Blue Team and Red Team`**
 
-My name is Bernardo, I’m 26 years old, and I’m originally from Pernambuco, Brazil. I completed high school at a public school in my region. After graduating, I enrolled in a technical course in Systems Analysis and Development, and later pursued a degree in the same field at UNINASSAU.
+Hey, hi, it´s a pleasure having you here. I'm Bernardo, I’m 26, and I’m originally from Pernambuco, Brazil. I completed high school at a public school in my region. After graduating, I enrolled in a technical course in Systems Analysis and Development, and later pursued a degree in the same field at UNINASSAU.
 I’m passionate about technology and security stuff. Since I was 16 years old, I’ve been involved with Cybersecurity and regularly practice through labs and studies on platforms such as TryHackMe, Hack The Box, LetsDefend, and also on my personal desktop environment. 
 
 Currently, I work in technical support at ProNet Tecnologia while studying to obtain the Google Cybersecurity certification, followed by other certifications related to the field.
